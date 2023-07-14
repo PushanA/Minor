@@ -1,0 +1,8 @@
+Flask
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python-headless
+tensorflow-gpu
+Exit
